@@ -1,0 +1,13 @@
+:root{
+    --main-font: "Raleway", sans-serif;
+    --second-font: "Oswald", sans-serif;
+}
+header{
+    background-color: #121212;
+    font-family: var(--second-font);
+}
+.profil-list a{
+    color: white;
+    padding: 32px, 0px, 32px, 150px;
+    gap: 100px;
+}
